@@ -14,8 +14,6 @@ npx ts-node ./scripts/run-day.ts 1
 
 ```bash
 npm run day -- 1
-# or
-npm run run-day -- 1
 ```
 
 The `--` after the npm run command tells npm to pass the following arguments to the script.

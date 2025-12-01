@@ -62,3 +62,6 @@ Thumbs.db
 .nuxt/
 .svelte-kit/
 node-repl.history
+
+# Ignore any file literally named `input.txt` anywhere in the repo
+**/input.txt
